@@ -6,3 +6,6 @@ To run this game open file named "run_game.sh"
 
 Installation:
 git clone https://github.com/Alzairr/alzairr.git
+
+project idea from Roadmap.sh
+https://roadmap.sh/projects/number-guessing-game
